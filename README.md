@@ -9,3 +9,6 @@ After a long process of trying to learn Angular and doing a lot of tutorials, I 
 * [Youtube Video](https://www.youtube.com/watch?v=TRrL5j3MIvo "Youtube")
 * [Github Repo](https://github.com/curran/screencasts/tree/gh-pages/introToAngular "Github")
 
+###Introduction to Angular.js in 50 Examples (part 2)
+* [Youtube Video](https://www.youtube.com/watch?v=6J08m1H2BME "Youtube")
+* [Github Repo](https://github.com/curran/screencasts/tree/gh-pages/introToAngular "Github")
