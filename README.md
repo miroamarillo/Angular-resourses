@@ -4,7 +4,7 @@ After a long process of trying to learn Angular and doing a lot of tutorials, I 
 
 ##Videos
 
-###Introduction to Angular.js in 50 Examples (part 1) -[X]
+###Introduction to Angular.js in 50 Examples (part 1) -[x]
 
 [Youtube Video](https://www.youtube.com/watch?v=TRrL5j3MIvo "Youtube") and the [Github Repo](https://github.com/curran/screencasts/tree/gh-pages/introToAngular "Github")
 
