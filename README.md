@@ -8,6 +8,11 @@ After a long process of trying to learn Angular and doing a lot of tutorials, I 
 
 * [Youtube Video](https://www.youtube.com/watch?v=i9MHigUZKEM)
 
+@ [Models, Routes and Factories](https://www.youtube.com/watch?feature=player_detailpage&v=i9MHigUZKEM#t=1862)
+
+@ [Factories, Services and Rpoviders](https://www.youtube.com/watch?feature=player_detailpage&v=i9MHigUZKEM#t=3225)
+
+
 ###Introduction to Angular.js in 50 Examples (part 1)
 
 * [Youtube Video](https://www.youtube.com/watch?v=TRrL5j3MIvo "Youtube")
