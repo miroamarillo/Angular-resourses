@@ -29,3 +29,9 @@ After a long process of trying to learn Angular and doing a lot of tutorials, I 
 @ [Example 44](https://www.youtube.com/watch?v=6J08m1H2BME#t=1572): Simple way to create custom filters
 
 @ [Example 46](https://www.youtube.com/watch?v=6J08m1H2BME#t=2137): How to create custom directives
+
+##Readings
+
+###[How to Learn Angular (ng-newsletter)](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
+
+###[Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
